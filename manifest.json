@@ -1,0 +1,18 @@
+{
+  "schema": "solidworksmcp/optional-models/v1",
+  "format": "TorchScript",
+  "models": {
+    "dexined": {
+      "file": "lineart/dexined_biped_v2.pt",
+      "bytes": 141291499,
+      "sha256": "096C2230D3060104BAE083A4B0C882EBC6301D730C401C7E8556A6D8F944C65B",
+      "source": "xavysp/DexiNed official BIPED v2 checkpoint"
+    },
+    "teed": {
+      "file": "lineart/teed_biped_5.pt",
+      "bytes": 296344,
+      "sha256": "3175EC531B2238EAAACBCFAC17111666F2B8C885BD04F785DE36F8C776C80C3A",
+      "source": "xavysp/TEED official BIPED checkpoint 5"
+    }
+  }
+}
